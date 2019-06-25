@@ -1,0 +1,4 @@
+#Tue Jun 25 09:44:40 WITA 2019
+base.0=/Users/gringgo/Documents/Flutter/flutter-chat-app/build/app/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

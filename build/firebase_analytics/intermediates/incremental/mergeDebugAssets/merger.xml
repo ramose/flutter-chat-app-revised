@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/gringgo/Documents/Flutter/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.0.3/android/src/main/assets"/><source path="/Users/gringgo/Documents/Flutter/flutter-chat-app/build/firebase_analytics/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/gringgo/Documents/Flutter/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.0.3/android/src/debug/assets"/></dataSet></merger>
